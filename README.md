@@ -1,158 +1,151 @@
 # 👋 Hi, I'm Muhammad Hamza
 
-### Frontend Developer | React.js • Next.js • React Native
+### MERN Stack Developer | Next.js Developer | React Native Mobile App Developer
 
-I'm a passionate **Frontend Developer** focused on building modern, responsive, scalable, and user-friendly digital experiences.
+I'm a passionate **Full-Stack Web & Mobile App Developer** focused on building modern, responsive, scalable, and user-friendly digital experiences.
 
-I enjoy transforming ideas and designs into clean, maintainable applications with a strong focus on **UI/UX, performance, reusable components, and scalable frontend architecture**.
+I build full-stack web applications using **MongoDB, Express.js, React.js, and Node.js (MERN Stack)**, develop modern web applications with **Next.js**, and create cross-platform mobile applications using **React Native and Expo**.
 
-Currently, I'm expanding my expertise across **web and mobile development**, working with React.js, Next.js, and React Native.
+I enjoy transforming ideas into functional digital products with a strong focus on **UI/UX, clean code, reusable components, RESTful APIs, performance optimization, and scalable application architecture**.
 
 ---
 
 ## 🚀 About Me
 
-* 💻 Frontend Developer passionate about modern web & mobile applications
-* ⚛️ Specialized in **React.js, Next.js & React Native**
-* 🎨 Focused on clean, responsive and user-friendly UI/UX
-* 🧩 Experienced in building reusable and scalable components
-* ⚡ Interested in frontend performance optimization
-* 🗄️ Exploring database development with **Prisma**
-* 🛠️ Working with modern AI-powered development tools
-* 📚 Continuously learning and improving my development skills
+* 💻 MERN Stack Developer building full-stack web applications
+* ⚛️ React.js Developer creating interactive and reusable user interfaces
+* ▲ Next.js Developer building modern, responsive web applications
+* 📱 React Native Developer building cross-platform mobile applications
+* 🚀 Working with Expo and Expo Router for mobile app development
+* 🟢 Developing backend services and RESTful APIs with Node.js and Express.js
+* 🗄️ Working with MongoDB, Mongoose, and database design
+* 🔐 Exploring secure authentication, JWT, and role-based authorization
+* 🎨 Passionate about modern UI/UX and responsive design
+* 🛠️ Using AI-powered development tools to improve productivity
+* 📚 Continuously learning and building real-world projects
 
 ---
 
 ## 🧠 What I'm Currently Working On
 
-* Building responsive web applications with **React.js & Next.js**
-* Developing cross-platform mobile applications with **React Native**
-* Creating reusable and scalable frontend components
-* Improving application performance and code quality
-* Building modern interfaces with responsive design principles
-* Exploring full-stack development with **Prisma**
-* Learning modern AI-assisted development workflows
+* 🌐 Building full-stack applications with the MERN stack
+* ▲ Developing modern web applications using Next.js
+* 📱 Creating Android and iOS applications using React Native and Expo
+* 🛒 Developing full-stack e-commerce platforms
+* 🔌 Building and integrating RESTful APIs
+* 🔐 Implementing authentication and authorization
+* 🧩 Creating reusable web and mobile UI components
+* ⚡ Improving application performance, maintainability, and code quality
 
 ---
 
-# 💻 Technologies
+## 💻 Technologies & Skills
 
-### 🌐 Web & Mobile Development
+### 🌐 Frontend & Web Development
 
-<p align="left">
-  <img src="https://img.icons8.com/color/48/html-5--v1.png" width="45" alt="HTML5"/>
-  <img src="https://img.icons8.com/color/48/css3.png" width="45" alt="CSS3"/>
-  <img src="https://img.icons8.com/color/48/javascript.png" width="45" alt="JavaScript"/>
-  <img src="https://img.icons8.com/color/48/react-native.png" width="45" alt="React.js"/>
-  <img src="https://img.icons8.com/color/48/nextjs.png" width="45" alt="Next.js"/>
-  <img src="https://img.icons8.com/color/48/react-native.png" width="45" alt="React Native"/>
-  <img src="https://img.icons8.com/color/48/prisma-orm.png" width="45" alt="Prisma"/>
-</p>
+**HTML5 • CSS3 • JavaScript • React.js • Next.js • Tailwind CSS**
 
-**HTML5 • CSS3 • JavaScript • React.js • Next.js • React Native • Prisma**
+### ⚙️ Backend Development
 
----
+**Node.js • Express.js • RESTful APIs • JWT Authentication • bcrypt**
 
-# 🛠️ Development Tools
+### 🗄️ Database & ORM
 
-<p align="left">
-  <img src="https://img.icons8.com/color/48/visual-studio-code-2019.png" width="45" alt="VS Code"/>
-  <img src="https://img.icons8.com/color/48/github.png" width="45" alt="GitHub"/>
-  <img src="https://img.icons8.com/color/48/git.png" width="45" alt="Git"/>
-</p>
+**MongoDB • Mongoose • Prisma**
 
-**VS Code • Antigravity IDE • Codex IDE • Git • GitHub**
+### 📱 Mobile App Development
+
+**React Native • Expo • Expo Router • Cross-Platform UI • Responsive Mobile Design**
+
+### 🛠️ Development Tools
+
+**VS Code • Antigravity IDE • Codex • Git • GitHub • Postman • npm**
 
 ---
 
-# 📱 Web & Mobile Development
+## 🔥 My Development Stack
 
-### 🌐 Web Development
-
-I build modern web applications using:
-
-* **React.js**
-* **Next.js**
-* **JavaScript**
-* **HTML5**
-* **CSS3**
-* **Prisma**
-
-### 📱 Mobile Development
-
-Currently expanding my mobile development expertise with:
-
-* **React Native**
-* **Expo**
-* **Expo Router**
-* Reusable mobile UI components
-* Responsive cross-platform interfaces
+| Technology   | Purpose                           |
+| ------------ | --------------------------------- |
+| MongoDB      | NoSQL database                    |
+| Express.js   | Backend framework                 |
+| React.js     | Interactive web interfaces        |
+| Node.js      | Backend JavaScript runtime        |
+| Next.js      | Modern web applications           |
+| React Native | Cross-platform mobile apps        |
+| Expo         | React Native development platform |
+| Prisma       | Database ORM                      |
 
 ---
 
-# 🎯 Areas of Focus
+## 🎯 Areas of Focus
 
 ```text
-Frontend Development
-        ↓
-React.js & Next.js
-        ↓
-Responsive UI / UX
-        ↓
-Reusable Components
-        ↓
-Performance Optimization
-        ↓
-React Native Mobile Apps
-        ↓
-Scalable Application Architecture
+Full-Stack & Mobile App Development
+                 ↓
+        MERN Stack Development
+                 ↓
+       Next.js Web Applications
+                 ↓
+      React Native Mobile Apps
+                 ↓
+       RESTful API Integration
+                 ↓
+       Database & Authentication
+                 ↓
+    Responsive UI/UX & Performance
+                 ↓
+       Scalable Digital Products
 ```
 
 ---
 
-# 🤝 I'm Looking to Collaborate On
+## 🤝 I'm Looking to Collaborate On
 
-* 🚀 React.js & Next.js projects
+* 🚀 MERN stack applications
+* ▲ Next.js web projects
 * 📱 React Native mobile applications
-* 🎨 UI/UX-focused applications
-* 🌍 Open-source frontend projects
+* 🛒 Full-stack e-commerce platforms
+* 🔌 Backend APIs and integrations
+* 🎨 UI/UX-focused digital products
+* 🌍 Open-source web and mobile projects
 * 🧩 Reusable component libraries
-* 💡 Innovative web and mobile products
 
 ---
 
-# 💬 Ask Me About
+## 💬 Ask Me About
 
-* React.js
-* Next.js
-* React Native
-* JavaScript
-* Responsive Web Design
-* Frontend Architecture
-* Reusable Components
-* UI/UX Implementation
-* Git & GitHub
-* Modern frontend development workflows
-
----
-
-# 📈 My Development Journey
-
-I'm continuously working on becoming a stronger **Frontend & Mobile Developer** by learning modern technologies, improving code quality, and building real-world projects.
-
-My current learning path:
-
-**HTML → CSS → JavaScript → React.js → Next.js → React Native → Full-Stack Development**
+* MongoDB, Express.js, React.js, and Node.js
+* Next.js and modern web development
+* React Native, Expo, and Expo Router
+* JavaScript and responsive web design
+* RESTful API development and integration
+* JWT authentication and authorization
+* Mongoose and database modeling
+* Reusable components and UI/UX implementation
+* Git, GitHub, and development workflows
 
 ---
 
-# ⚡ Fun Fact
+## 📈 My Development Journey
 
-> I enjoy turning ideas into clean, functional, and beautiful digital experiences. 🚀
+I'm continuously improving my skills as a **Full-Stack Web Developer and Mobile App Developer** by building real-world projects and exploring modern technologies.
+
+**My learning path:**
+
+HTML → CSS → JavaScript → React.js → MERN Stack → Next.js → React Native → Full-Stack Web & Mobile Development
+
+My goal is to create scalable web applications and cross-platform mobile apps that deliver excellent user experiences.
 
 ---
 
-# 📬 Connect With Me
+## ⚡ Fun Fact
+
+> I enjoy turning ideas into complete digital products, from responsive websites and powerful backend APIs to modern mobile applications. 🚀
+
+---
+
+## 📬 Connect With Me
 
 <p align="left">
   <a href="https://www.linkedin.com/in/your-link" target="_blank">
@@ -170,7 +163,7 @@ My current learning path:
 
 ---
 
-# 🐍 GitHub Contribution
+## 🐍 GitHub Contribution Graph
 
 <picture>
   <source
@@ -182,7 +175,7 @@ My current learning path:
     srcset="https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake.svg"
   />
   <img
-    alt="github contribution snake"
+    alt="GitHub contribution snake"
     src="https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake.svg"
   />
 </picture>
